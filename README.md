@@ -3,8 +3,6 @@
 
 I'm a graduate of the University of the People, Pasadena/California where I earned my Associate of Computer Sciences degree in 2023. I'm excited to start my career as a junior Cloud Engineer/Architect and put my skills and knowledge to the test. 
 
-![Profile views](https://gpvc.arturio.dev/Waji-97)  
-
 ## Skills
 
 - ✅ Python
