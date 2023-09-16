@@ -16,7 +16,7 @@
 - ✅ ArgoCD
 - ✅ Prometheus & Grafana
   
-## My Blogs
+## My Blogs from [dev.to](https://dev.to/waji97)
 
 
 <table>
