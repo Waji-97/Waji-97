@@ -1,11 +1,10 @@
-## Hi there 👋, My name is Waji!
-#### I am working as a Kubernetes Administrator/Engineer 
-#### Get in touch with me!
+## Hi there 👋, My name is Waji.
+#### I am currently working as a Kubernetes Operator! 
+#### Get in touch with me
 - Email: wajiwos14@gmail.com
 - LinkedIn: www.linkedin.com/in/syedwaji
 
 ## Skills
-
 - ✅ Docker & Kubernetes
 - ✅ Linux
 - ✅ AWS Cloud
