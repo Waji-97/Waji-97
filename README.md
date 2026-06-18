@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working as **a Kubernetes Engineer**
 
-- 📝 I regularly write about things I am working on [Waji's Notion](https://waji-notion.vercel.app)
+- 📝 I regularly write about things I am working on [Waji's Notion](https://blog.tail33529a.ts.net/)
 
 - 📫 Reach me via Email **wajiwos14@gmail.com** or Connect with me on [Linkedin](https://linkedin.com/in/syedwaji)
 
-- 📄 Know about my skills & experiences [Resume](https://waji-notion.vercel.app/resume)
-
-- 💡 Check out my Kubernetes Homelab [K8s-Homelab](https://github.com/Waji-97/K8s-Homelab)
+- 💡 Check out my Kubernetes Homelab [Home Operations *powered by Claude](https://github.com/Waji-97/Home-Operation)
 
